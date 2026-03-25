@@ -36,7 +36,7 @@
         const pic = document.getElementById('main-pic');
         const btn = document.getElementById('jump-btn');
         
-        pic.src = 'IMG_6915.jpeg'; // 切换到成绩单
+        pic.src = 'IMG_6882.png'; // 切换到成绩单
         btn.style.display = 'none'; // 隐藏点击区域，防止二次点击
         
         // 自动滚动到顶部，模拟页面跳转感
